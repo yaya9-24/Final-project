@@ -9,12 +9,20 @@
   <img width="100%" src="https://github.com/user-attachments/assets/e3bb7051-374d-4c8f-bb8e-8aa1d94ebdaf">
 </p>
 
+## 시연 영상
+> https://youtu.be/_YeZIV-kLns
+
 ## 팀원
 * 김동욱
 * 김소희
 * 양영준
 * 양현모
 * 이현수
+
+## 구현 기능
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/7522d08d-e1e3-4937-9356-0461e3c62f15">
+</p>
 
 ## 메인 홈페이지
 <p align="center">
@@ -36,6 +44,11 @@
   <img width="100%" src="https://github.com/user-attachments/assets/49f5bb03-f978-4fe9-840a-b0e645f15cdc">
 </p>
 
+## 유즈케이스
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/e61efc82-d88f-485b-8480-385b4ece00ca">
+</p>
+
 ## 홈페이지 구조
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/4d65822b-ef2c-4b17-aadc-f24d35c8f77c">
@@ -51,8 +64,3 @@
 </p>
 
 
-
-## 홈페이지 구조
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/49f5bb03-f978-4fe9-840a-b0e645f15cdc">
-</p>
